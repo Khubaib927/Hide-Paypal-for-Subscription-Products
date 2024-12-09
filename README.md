@@ -1,4 +1,3 @@
-# Hide-Paypal-for-Subscription-Products
 # Hide PayPal for WooCommerce Subscriptions
 
 A WordPress plugin to automatically hide PayPal payment gateway for subscription products in WooCommerce. Compatible with "Payment Plugins for PayPal WooCommerce" plugin.
